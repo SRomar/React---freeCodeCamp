@@ -1,0 +1,19 @@
+{
+  "name": "react.freecodecamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SRomar/React---freeCodeCamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SRomar/React---freeCodeCamp/issues"
+  },
+  "homepage": "https://github.com/SRomar/React---freeCodeCamp#readme"
+}
