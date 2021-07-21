@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SRomar/React---freeCodeCamp/issues"
   },
-  "homepage": "https://github.com/SRomar/React---freeCodeCamp#readme"
+  "homepage": "https://github.com/SRomar/React---freeCodeCamp#readme",
+  "dependencies": {
+    "react-router-dom": "^5.2.0"
+  }
 }
